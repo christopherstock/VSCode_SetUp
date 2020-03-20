@@ -1,0 +1,28 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Default Light+",
+    "workbench.editor.enablePreview": false,
+    "explorer.confirmDelete": false,
+    "editor.renderLineHighlight": "all",
+    "files.autoSave": "onFocusChange",
+    "todo-tree.general.rootFolder": "src",
+    "todo-tree.regex.regex": "((//|#|\\*|<!--|;|/\\*|^)\\s*($TAGS)|^\\s*- \\[ \\])",
+    "editor.renderWhitespace": "all",
+    "files.trimTrailingWhitespace": true,
+    "editor.occurrencesHighlight": true,
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#ffffaaff",
+        "editor.selectionHighlightBackground": "#ffdd99ff",
+        "editorError.foreground": "#ff0000ff",
+        "editor.wordHighlightBackground": "#ffdd99ff",
+        "editor.wordHighlightStrongBackground": "#ffdd99ff"
+    },
+    "editor.wordWrapColumn": 120,
+    "editor.rulers": [
+        120
+    ],
+    "diffEditor.ignoreTrimWhitespace": false,
+    "explorer.confirmDragAndDrop": false,
+    "debug.onTaskErrors": "debugAnyway",
+    "todo-tree.tree.showScanModeButton": false
+}
