@@ -1,6 +1,5 @@
 {
     "workbench.startupEditor": "newUntitledFile",
-    "workbench.colorTheme": "Default Light+",
     "workbench.editor.enablePreview": false,
     "explorer.confirmDelete": false,
     "editor.renderLineHighlight": "all",
@@ -13,16 +12,23 @@
     "workbench.colorCustomizations": {
         "editor.lineHighlightBackground": "#ffffaaff",
         "editor.selectionHighlightBackground": "#ffdd99ff",
-        "editorError.foreground": "#ff0000ff",
         "editor.wordHighlightBackground": "#ffdd99ff",
-        "editor.wordHighlightStrongBackground": "#ffdd99ff"
+        "editor.wordHighlightStrongBackground": "#ffdd99ff",
+        "editorHint.foreground": "#ff0000ff",
+        "editorWarning.foreground": "#ff9900ff",
+        "editorError.foreground": "#ff0000ff"
     },
     "editor.wordWrapColumn": 120,
     "editor.rulers": [
-        120
+        120,
     ],
     "diffEditor.ignoreTrimWhitespace": false,
     "explorer.confirmDragAndDrop": false,
     "debug.onTaskErrors": "debugAnyway",
-    "todo-tree.tree.showScanModeButton": false
+    "todo-tree.tree.showScanModeButton": false,
+    "window.zoomLevel": 0,
+    "launch": {
+
+    },
+    "workbench.colorTheme": "Default Light+"
 }
